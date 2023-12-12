@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vuvu43
 - 👀 Tenho interesse em me formar e programar
-- 🌱 Sou mais proeficiente em Python, mas também entendo C
+- 🌱 Sou mais proeficiente em Python, mas também entendo C e Julia
 
 
 
