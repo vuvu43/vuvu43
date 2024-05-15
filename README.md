@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vuvu43
-- 👀 Tenho interesse em me formar e programar
+- 👀 Tenho interesse em programação e matemática no geral
 - 🌱 Sou mais proeficiente em Python, mas também entendo C e Julia
 
 
